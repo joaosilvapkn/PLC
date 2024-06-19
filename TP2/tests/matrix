@@ -1,0 +1,4 @@
+var mtrx[10][10] int;
+
+mtrx[3][4] = 5;
+print(mtrx[2+1][3+1]);

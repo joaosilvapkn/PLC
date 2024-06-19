@@ -1,0 +1,10 @@
+
+
+def f(x int, y int) int {
+    return x/y;
+}
+
+print(f(5, 6));
+println();
+print(f(8, 9));
+

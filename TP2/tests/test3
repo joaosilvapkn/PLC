@@ -1,0 +1,10 @@
+var a int;
+var b int;
+var arr[10] int;
+
+arr[0] = 1;
+arr[9] = 2;
+
+print(arr[0]);
+println();
+print(arr[9]);

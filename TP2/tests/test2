@@ -1,0 +1,22 @@
+var i int;
+var j int;
+var s int;
+var a int;
+var b int;
+
+a = int(input());
+s = int(input());
+
+while (i < a) {
+    j = 0;
+    while (j < a) {
+        if (i+j == s) {
+            print(i);
+            print(" ");
+            print(j);
+            println();
+        }
+        j = j+1;
+    }
+    i = i+1;
+}

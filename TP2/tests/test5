@@ -1,0 +1,20 @@
+var size int;
+var i int;
+var a[5] int;
+
+def printarr(arr int[], size int) void {
+    i=0;
+    while (i < size) {
+        print(arr[i]);
+        println();
+        i = i+1;
+    }
+    return;
+}
+
+a[0] = 0;
+a[1] = 4;
+a[2] = 7;
+a[3] = 9;
+a[4] = 34;
+printarr(a, 5);

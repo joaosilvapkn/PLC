@@ -1,0 +1,17 @@
+var p1 int;
+var p2 int;
+var t int;
+
+def fib(n int) int {
+   p1 = 0;
+   p2 = 1;
+   while (n > 0) {
+     t = p1+p2;
+     p1 = p2;
+     p2 = t; 
+     n = n-1;
+   }
+   return p1;
+}
+
+print(fib(int(input())));

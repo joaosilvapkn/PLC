@@ -1,0 +1,10 @@
+var arr[10] int;
+var t int;
+
+arr[0] = 3;
+arr[1] = 4;
+t = arr[0];
+arr[0] = arr[1];
+arr[1] = t;
+print(arr[0]);
+
