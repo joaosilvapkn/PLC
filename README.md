@@ -11,6 +11,8 @@ Nota final: 19
 
 
 
+
+
 Para o TP2:
   1. Instalar a biblioteca ply, abrindo o terminal e correndo: "pip install ply"
 
