@@ -7,6 +7,8 @@ Para o TP1:
      
   4. Serão criados um ficheiro .html com os resultados e um ficheiro "graph_visualization.png" para visualizar um grafo da resolução
 
+Nota final: 19
+
 
 Para o TP2:
   1. Instalar a biblioteca ply, abrindo o terminal e correndo: "pip install ply"
@@ -14,3 +16,5 @@ Para o TP2:
   2. Testar a gramática com o ficheiro na pasta tests desejado, por exemplo, correndo: "python parser.py tests/fib"
 
   3. Copiar o código pseudo-assembly gerado e colar o mesmo na maquina virtual online em https://ewvm.epl.di.uminho.pt/ verificando o resultado gerado
+
+Nota final: 20
